@@ -1,0 +1,6 @@
+langchain>=1.0
+langchain-google-genai
+langchain-core
+tavily-python
+python-dotenv
+streamlit
